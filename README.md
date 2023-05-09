@@ -5,7 +5,6 @@ This is the annual report for Vrinda Store, based on data from the store's sales
 
 **Files**
 
-To view the Vrinda Store Annual Report, click [here](https://github.com/github.com/Nagutalli/vrinda-store-annual-report).
 This is the Excel file containing the annual report with charts and graphs.
 
 **Usage**
