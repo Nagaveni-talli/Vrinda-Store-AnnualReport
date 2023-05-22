@@ -1,4 +1,4 @@
-# Vrinda-Store-AnnualReport
+# Vrinda-Store-Annual Report
 
 Vrinda Store wants to create an  Annual  Report Sales Report for 2022 So that, Vrinda store can understand their customers and grow more Sales in 2023.
 This is the annual report for Vrinda Store, based on data from the store's sales. The report includes insights on sales trends, customer behavior, and other metrics.
